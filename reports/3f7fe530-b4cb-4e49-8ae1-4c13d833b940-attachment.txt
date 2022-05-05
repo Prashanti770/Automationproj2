@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_loginpage.py:76 ********* Verify Homepage Title *********
+[1m[31mERROR   [0m root:test_loginpage.py:91 ********* Title is incorrect *********

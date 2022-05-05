@@ -1,0 +1,5 @@
+05/02/2022 12:04:09 PM INFO ********* Test_001_login *********
+05/02/2022 12:04:11 PM INFO ********* Open Loginpage  *********
+05/02/2022 12:04:12 PM INFO ********* Successfully login  into the page *********
+05/02/2022 12:04:21 PM INFO ********* Verify Homepage Title *********
+05/02/2022 12:04:24 PM ERROR ********* Title is incorrect *********

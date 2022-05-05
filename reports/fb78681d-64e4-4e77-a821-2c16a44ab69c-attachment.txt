@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_loginpage.py:26 ********* Test_001_login *********
+[32mINFO    [0m root:test_loginpage.py:30 ********* Open Loginpage  *********
+[32mINFO    [0m root:test_loginpage.py:51 ********* Successfully login  into the page *********
