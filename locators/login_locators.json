@@ -1,0 +1,20 @@
+[
+  {
+    "pageName": "LoginPage_json",
+    "name": "user_text",
+    "locateUsing": "xpath",
+    "locator": "//input[@id='user-name']"
+  },
+  {
+    "pageName": "LoginPage_json",
+    "name": "password_text",
+    "locateUsing": "xpath",
+    "locator": "//input[@id='password']"
+  },
+  {
+    "pageName": "LoginPage_json",
+    "name": "login_click",
+    "locateUsing": "xpath",
+    "locator": "//input[@id='login-button']"
+  }
+  ]

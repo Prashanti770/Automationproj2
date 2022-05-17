@@ -1,0 +1,66 @@
+05/13/2022 01:01:52 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 01:01:54 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/13/2022 01:01:54 PM - BaseDriver - ERROR: Element not found with locator: //input[@id='user-name'] and locatorType: xpath
+05/13/2022 01:01:54 PM - BaseDriver - ERROR: cannot send data on the element with locator: //input[@id='user-name'] locatorType: xpath
+05/13/2022 01:01:54 PM - BaseDriver - ERROR: Element not found with locator: //input[@id='password'] and locatorType: xpath
+05/13/2022 01:01:54 PM - BaseDriver - ERROR: cannot send data on the element with locator: //input[@id='password'] locatorType: xpath
+05/13/2022 01:01:54 PM - BaseDriver - ERROR: Element not found with locator: //input[@id='login-button'] and locatorType: xpath
+05/13/2022 01:01:54 PM - BaseDriver - ERROR: cannot click on the element with locator: //input[@id='login-button'] locatorType: xpath
+05/13/2022 01:01:54 PM - Test_001_login - INFO: ********* Successfully login  into the page *********
+05/13/2022 01:13:27 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 01:13:30 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/13/2022 01:13:30 PM - BaseDriver - ERROR: Element not found with locator: //input[@id='user-name'] and locatorType: xpath
+05/13/2022 01:13:30 PM - BaseDriver - ERROR: cannot send data on the element with locator: //input[@id='user-name'] locatorType: xpath
+05/13/2022 01:13:30 PM - BaseDriver - ERROR: Element not found with locator: //input[@id='password'] and locatorType: xpath
+05/13/2022 01:13:30 PM - BaseDriver - ERROR: cannot send data on the element with locator: //input[@id='password'] locatorType: xpath
+05/13/2022 01:13:30 PM - BaseDriver - ERROR: Element not found with locator: //input[@id='login-button'] and locatorType: xpath
+05/13/2022 01:13:30 PM - BaseDriver - ERROR: cannot click on the element with locator: //input[@id='login-button'] locatorType: xpath
+05/13/2022 01:13:30 PM - Test_001_login - INFO: ********* Successfully login  into the page *********
+05/13/2022 01:16:15 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 01:16:17 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/13/2022 01:16:17 PM - BaseDriver - INFO: Element found with locator: //input[@id='user-name'] and locatorType: xpath
+05/13/2022 01:16:17 PM - BaseDriver - INFO: send data on element with locator: //input[@id='user-name'] locatorType: xpath
+05/13/2022 01:16:17 PM - BaseDriver - INFO: Element found with locator: //input[@id='password'] and locatorType: xpath
+05/13/2022 01:16:17 PM - BaseDriver - INFO: send data on element with locator: //input[@id='password'] locatorType: xpath
+05/13/2022 01:16:17 PM - BaseDriver - INFO: Element found with locator: //input[@id='login-button'] and locatorType: xpath
+05/13/2022 01:16:17 PM - BaseDriver - INFO: clicked on element with locator: //input[@id='login-button'] locatorType: xpath
+05/13/2022 01:16:17 PM - Test_001_login - INFO: ********* Successfully login  into the page *********
+05/13/2022 02:42:47 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 02:42:50 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/13/2022 02:42:50 PM - BaseDriver - INFO: Element found with locator: //input[@id='user-name'] and locatorType: xpath
+05/13/2022 02:42:50 PM - BaseDriver - INFO: send data on element with locator: //input[@id='user-name'] locatorType: xpath
+05/13/2022 02:42:50 PM - BaseDriver - INFO: Element found with locator: //input[@id='password'] and locatorType: xpath
+05/13/2022 02:42:50 PM - BaseDriver - INFO: send data on element with locator: //input[@id='password'] locatorType: xpath
+05/13/2022 02:42:50 PM - BaseDriver - INFO: Element found with locator: //input[@id='login-button'] and locatorType: xpath
+05/13/2022 02:42:50 PM - BaseDriver - INFO: clicked on element with locator: //input[@id='login-button'] locatorType: xpath
+05/13/2022 02:42:50 PM - Test_001_login - INFO: ********* Successfully login  into the page *********
+05/13/2022 03:02:09 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 03:02:11 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/13/2022 03:02:40 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 03:02:42 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/13/2022 03:08:16 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 03:08:18 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/13/2022 03:08:18 PM - BaseDriver - INFO: Element found with locator: //input[@id='user-name'] and locatorType: xpath
+05/13/2022 03:08:18 PM - BaseDriver - INFO: send data on element with locator: //input[@id='user-name'] locatorType: xpath
+05/13/2022 03:08:18 PM - BaseDriver - INFO: Element found with locator: //input[@id='password'] and locatorType: xpath
+05/13/2022 03:08:18 PM - BaseDriver - INFO: send data on element with locator: //input[@id='password'] locatorType: xpath
+05/13/2022 03:08:18 PM - BaseDriver - INFO: Element found with locator: //input[@id='login-button'] and locatorType: xpath
+05/13/2022 03:08:18 PM - BaseDriver - INFO: clicked on element with locator: //input[@id='login-button'] locatorType: xpath
+05/13/2022 03:08:18 PM - Test_001_login - INFO: ********* Successfully login  into the page *********
+05/13/2022 04:59:13 PM - Test_001_login - INFO: ********* Test_001_login *********
+05/13/2022 04:59:15 PM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/16/2022 10:44:56 AM - Test_001_login - INFO: ********* Test_001_login *********
+05/16/2022 10:45:01 AM - Test_001_login - INFO: ********* Open Loginpage  *********
+05/16/2022 10:45:02 AM - BaseDriver - INFO: Element found with locator: //input[@id='user-name'] and locatorType: xpath
+05/16/2022 10:45:02 AM - BaseDriver - INFO: send data on element with locator: //input[@id='user-name'] locatorType: xpath
+05/16/2022 10:45:02 AM - BaseDriver - INFO: Element found with locator: //input[@id='password'] and locatorType: xpath
+05/16/2022 10:45:02 AM - BaseDriver - INFO: send data on element with locator: //input[@id='password'] locatorType: xpath
+05/16/2022 10:45:02 AM - BaseDriver - INFO: Element found with locator: //input[@id='login-button'] and locatorType: xpath
+05/16/2022 10:45:03 AM - BaseDriver - INFO: clicked on element with locator: //input[@id='login-button'] locatorType: xpath
+05/16/2022 10:45:03 AM - Test_001_login - INFO: ********* Successfully login  into the page *********
+05/16/2022 11:26:17 AM - Test_001_login - INFO: ********* Test_001_login *********
+05/16/2022 11:31:47 AM - Test_001_login - INFO: ********* Test_001_login *********
+05/16/2022 11:39:42 AM - Test_001_login - INFO: ********* Test_001_login *********
+05/16/2022 11:54:23 AM - Test_001_login - INFO: ********* Test_001_login *********
+05/16/2022 11:55:10 AM - Test_001_login - INFO: ********* Test_001_login *********
+05/16/2022 12:34:35 PM - Test_001_login - INFO: ********* Test_001_login *********

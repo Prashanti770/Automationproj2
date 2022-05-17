@@ -1,0 +1,7 @@
+{
+  "test_json_loginpage_1":{
+   "baseurl" : "https://www.saucedemo.com/",
+   "user" : "standard_user",
+    "pwd" : "secret_sauce"
+  }
+}
